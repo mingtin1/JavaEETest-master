@@ -1,0 +1,12 @@
+spring:
+  thymeleaf:
+    cache: false
+  jackson:
+    serialization:
+      indent_output:  true
+logging:
+  level:
+    org:
+      springframework:
+        security: info
+

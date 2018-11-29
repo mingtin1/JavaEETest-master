@@ -1,0 +1,8 @@
+#debug: true
+authentication:
+  oauth:
+    clientid: clientid
+    secret: secret
+    tokenValidityInSeconds: 1800
+    resource:
+      filter-order: 3
